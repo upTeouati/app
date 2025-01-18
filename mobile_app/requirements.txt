@@ -1,0 +1,5 @@
+kivy>=2.2.0
+kivymd>=1.1.1
+websockets>=10.0
+pillow>=9.0.0
+android>=1.0.0
